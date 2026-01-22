@@ -1,0 +1,5 @@
+papers/
+papers_metadata/
+chroma_db/
+*.gguf
+*.pkl
